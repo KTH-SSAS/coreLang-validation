@@ -58,7 +58,7 @@ Official project title: "Empirical Evaluation of a Threat Modeling Language as a
   - Engla Rencelj Ling
   - Pontus Johnson
   - Mathias Ekstedt
-- Status: pending completion :orange_circle:
+- Status: completed :green_circle:
 - Timeline: 2022-2023
 - Parent project: [coreLang](https://github.com/KTH-SSAS/coreLang)
 
@@ -75,7 +75,7 @@ The initial hypothesis we are working with, is that the simulation results will,
 - [x] Analyse the results of the validation
 - [x] Author the article
 - [x] Submit the article for publication at [Elsevier's Computers & Security](https://www.sciencedirect.com/journal/computers-and-security)
-- [ ] Article is published
+- [x] Article is published and is available [here](https://doi.org/10.1016/j.cose.2024.103743)
 
 ## Resources
 - [MAL - Meta Attack  Language](https://mal-lang.org)
